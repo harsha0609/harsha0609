@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working at [Stratforge](https://github.com/stratforge)
 
-- 🌱 I’m currently learning **NextJs, UI/UX, Docker**
-
 - 💬 Ask me about **React, Python, ML, Javascript(anything related)**
 
 - 📫 How to reach me **hv2595@gmail.com**
