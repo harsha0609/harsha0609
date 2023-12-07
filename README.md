@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/harsha_2595" target="blank"><img src="https://img.shields.io/twitter/follow/harsha_2595?logo=twitter&style=for-the-badge" alt="harsha_2595" /></a> </p>
 
-- 🔭 I’m currently working at [Stratforge](https://github.com/stratforge)
+- 🔭 I’m currently Pursing Masters at [Trinity College Dublin](https://tcd.ie)
 
 - 💬 Ask me about **React, Python, ML, Javascript(anything related)**
 
