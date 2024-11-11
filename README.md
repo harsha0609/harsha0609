@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Harsha Vardhan</h1>
-<h3 align="center">A passionate software developer from Bangalore, India. I Love all things tech and often work with AI/ML.</h3>
+<h3 align="center">A passionate software developer from Dublin, Ireland I Love all things tech and often work with AI/ML.</h3>
 
 <p align="left"> <a href="https://twitter.com/harsha_2595" target="blank"><img src="https://img.shields.io/twitter/follow/harsha_2595?logo=twitter&style=for-the-badge" alt="harsha_2595" /></a> </p>
 
-- 🔭 I’m currently Pursing Masters at [Trinity College Dublin](https://tcd.ie)
+- 🔭 I’m a Masters Graduate from  [Trinity College Dublin](https://tcd.ie)
 
 - 💬 Ask me about **React, Python, ML, Javascript(anything related)**
 
 - 📫 How to reach me **hv2595@gmail.com**
 
-- ⚡ Fun fact **I have a life :P**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
