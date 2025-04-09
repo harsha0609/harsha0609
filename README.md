@@ -51,8 +51,7 @@ I'm a software developer and researcher based in Dublin, Ireland, with a passion
   <!-- <a href="https://iden3.io/circom" target="_blank" rel="noreferrer"> <img src="URL_TO_CIRCOM_ICON" alt="circom" width="40" height="40"/> </a> -->
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsha0609&theme=dracula&hide_border=true" alt="GitHub Streak Stats" /></p>
-
+<p align="center"><img align="center" src="https://streak-stats.demolab.com/?user=harsha0609&theme=dracula&hide_border=true" alt="GitHub Streak Stats" /></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harsha0609&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Top Languages" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=harsha0609&theme=dracula&hide_border=true" alt="GitHub Activity Graph"/></p>
