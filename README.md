@@ -1,57 +1,108 @@
-<h1 align="center">Hi 👋, I'm Harsha Vardhan G</h1>
-<h3 align="center">Research Software Developer @ ADAPT Centre, Trinity College Dublin</h3>
-<h4 align="center">Specializing in Blockchain Privacy, Zero-Knowledge Proofs, Applied Cryptography, and Secure Software Engineering</h4>
+<h1 align="center">Harsha Vardhan G</h1>
+
+<h3 align="center">Senior Software Engineer | Research Software Engineer @ ADAPT Centre, Trinity College Dublin</h3>
 
 <p align="center">
-  <a href="https://harsha0609.github.io/" target="_blank"><img src="https://img.shields.io/badge/Website-Portfolio-blue?style=for-the-badge&logo=github" alt="Portfolio Website"/></a>
-  <a href="https://www.linkedin.com/in/harsha-vardhan-946b6515a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile"/></a>
-  <a href="https://twitter.com/harsha_2595" target="blank"><img src="https://img.shields.io/twitter/follow/harsha_2595?logo=twitter&style=for-the-badge" alt="Twitter Follow"/></a>
+  Backend platforms • Real-time systems • Privacy-preserving infrastructure • Applied cryptography
 </p>
 
-I'm a software developer and researcher based in Dublin, Ireland, with a passion for leveraging cutting-edge technology to build secure, private, and efficient systems. My work focuses on the intersection of software engineering, blockchain, and privacy-enhancing technologies, particularly Zero-Knowledge Proofs.
-
-- 🔭 Currently researching and developing **Zero-Knowledge Proofs (ZKPs)** and **Blockchain Privacy** solutions at the [ADAPT Centre, Trinity College Dublin](https://www.adaptcentre.ie/).
-- 🎓 Holds an **MSc in Computer Science** (Intelligent Systems) from [Trinity College Dublin](https://tcd.ie).
-- 🌱 Exploring advancements in **Applied Cryptography**, **Decentralized Systems**, and scalable **Cloud Architectures (AWS)**.
-- 💬 Ask me about: **ZKPs (circom, zk-SNARKs), Blockchain (XRP, Zcash), Cryptography, Python, React, Node.js, Django, AWS, Docker**.
-- 📫 How to reach me: **hv2595@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/harsha-vardhan-946b6515a/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Harsha Vardhan LinkedIn" height="30" width="40" /></a>
-  <a href="https://github.com/harsha0609" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Harsha Vardhan GitHub" height="30" width="40" /></a>
-  <a href="https://twitter.com/harsha_2595" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Harsha Vardhan Twitter" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/9972851/harsha-vardhan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Harsha Vardhan Stack Overflow" height="30" width="40" /></a>
-  <a href="https://dev.to/harsha0609" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Harsha Vardhan DEV.to" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://harsha0609.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-harsha0609.github.io-0f766e?style=for-the-badge&logo=github" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/harsha-vardhan-946b6515a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Harsha%20Vardhan-0a66c2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:hv2595@gmail.com">
+    <img src="https://img.shields.io/badge/Email-hv2595%40gmail.com-334155?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-  <!-- Add icons for ZKP/Crypto tools if good SVGs are available, e.g., Circom -->
-  <!-- <a href="https://iden3.io/circom" target="_blank" rel="noreferrer"> <img src="URL_TO_CIRCOM_ICON" alt="circom" width="40" height="40"/> </a> -->
+---
+
+## About
+
+I am a software engineer and researcher based in Dublin, Ireland, working at the intersection of backend engineering, secure systems, blockchain privacy, and applied cryptography.
+
+My work focuses on turning complex research and systems problems into maintainable software: backend platforms, real-time collaboration systems, developer tools, privacy-preserving workflows, and production-grade infrastructure.
+
+Currently, I work as a **Research Software Engineer at the ADAPT Centre, Trinity College Dublin**, where I build privacy-first digital infrastructure and applied cryptography systems.
+
+## Current Focus
+
+- Designing secure backend systems and developer-facing tools for privacy-preserving applications
+- Building real-time collaboration and analytics workflows with React, TypeScript, Firebase, WebSockets, and Python
+- Researching blockchain privacy, Zero-Knowledge Proofs, Zcash, XRP Ledger, PKI, and secure data handling
+- Translating research, legal, privacy, and stakeholder requirements into production-grade software
+
+## Selected Work
+
+| Project | Focus | Engineering Signal |
+|---|---|---|
+| **InvizCrypt** | Secure collaborative LaTeX platform | Built E2EE, Firebase-backed project storage, WebAssembly PDF compilation, and encrypted Yjs collaboration |
+| **ZKP-Based Privacy Framework on Zcash** | Privacy-preserving voting | Designed anonymous and verifiable voting workflows with Zcash shielded addresses and zk-SNARKs |
+| **Zcash Developer Tools** | Open-source blockchain tooling | Built RPC wrappers and block explorer utilities for local network testing and transaction analysis |
+| **Blockchain-Native PKI** | Secure identity infrastructure | Mapped X.509 certificates to NFTs on the XRP Ledger with encrypted communication workflows |
+| **Proof-of-Work++** | Consensus research | Proposed and evaluated an energy-efficient Proof-of-Work variant for academic publication |
+
+## Technical Stack
+
+**Backend & Platforms**  
+Python, Django REST Framework, Flask, Node.js, REST APIs, Microservices, PostgreSQL, Data Pipelines, API Design
+
+**Frontend & Product**  
+React, TypeScript, JavaScript, Vite, CodeMirror, PDF.js, Responsive Web Applications, Developer UX
+
+**Distributed & Real-time Systems**  
+WebSockets, Yjs, Real-time Collaboration, Event-driven Workflows, Relay Services, Monitoring
+
+**Infrastructure & Cloud**  
+Docker, Linux, AWS, GCP, Firebase Auth/Firestore/Storage, CI/CD, Deployment Automation, Cloud Run
+
+**Security & Privacy**  
+Secure Data Handling, Access Control, End-to-End Encryption, AES-GCM, RSA-OAEP, PKI, Zero-Knowledge Proofs, Key Management
+
+**Languages**  
+Python, JavaScript/TypeScript, C/C++, Rust familiar, Go familiar, Solidity familiar
+
+## Tools I Use
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="38" height="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="38" height="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="38" height="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="38" height="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="38" height="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="38" height="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="38" height="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="38" height="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="38" height="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="38" height="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="38" height="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="38" height="38" />
 </p>
 
-<p align="center"><img align="center" src="https://streak-stats.demolab.com/?user=harsha0609&theme=dracula&hide_border=true" alt="GitHub Streak Stats" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harsha0609&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Top Languages" /></p>
+## Publications
 
-<p align="center"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=harsha0609&theme=dracula&hide_border=true" alt="GitHub Activity Graph"/></p>
+- **PoW++: An Energy Efficient Proof-of-Work Variant**  
+  V. Agarwal, H. Vardhan, A. Kumar and H. Tewari. 7th International Conference on Blockchain Computing and Applications, Oct 2025. Accepted.
+
+- **A Blockchain-Native PKI: Secure X.509 Certificate Management on the XRP Ledger**  
+  H. Vardhan, P. Hiranayachatri, A. Lele and H. Tewari. IEEE International Conference on Distributed Ledger Technologies, Nov 2025. Accepted.
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harsha0609&show_icons=true&hide_border=true&theme=default&rank_icon=github" alt="Harsha's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harsha0609&layout=compact&hide_border=true&theme=default" alt="Top languages" />
+</p>
+
+## Contact
+
+- Portfolio: [harsha0609.github.io](https://harsha0609.github.io/)
+- LinkedIn: [linkedin.com/in/harsha-vardhan-946b6515a](https://www.linkedin.com/in/harsha-vardhan-946b6515a/)
+- Email: [hv2595@gmail.com](mailto:hv2595@gmail.com)
+
